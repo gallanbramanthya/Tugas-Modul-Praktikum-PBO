@@ -1,0 +1,8 @@
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\bin\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.exe.config
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\bin\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.exe
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\bin\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.pdb
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\obj\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.csproj.AssemblyReference.cache
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\obj\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.csproj.SuggestedBindingRedirects.cache
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\obj\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.csproj.CoreCompileInputs.cache
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\obj\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.exe
+C:\Users\galla\source\repos\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO\obj\Debug\222410102009_Gallan Damarrio_Tugas Modul Praktikum PBO.pdb
